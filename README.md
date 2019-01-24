@@ -7,4 +7,4 @@
 - Server
 - App
 - ~~Web~~
-- ftp
+- ~~ftp~~
