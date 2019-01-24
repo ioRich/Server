@@ -4,5 +4,6 @@
 
 - FireWall
 - Port
-- server
+- Server
 - App
+- Web
